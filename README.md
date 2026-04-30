@@ -1,2 +1,2 @@
-<img width="320" height="569" alt="J0ya8lWu_converted" src="https://github.com/user-attachments/assets/20e251d4-3eed-4718-bf54-d20d65615f32" />
-
+<p align="center"><picture><source srcset="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" media="(prefers-color-scheme: dark)"><source srcset="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"><img align="center" src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="48" alt="Loading your activity..." class="tmp-mt-4 hide-reduced-motion"></picture></p>
+<p align="center" class="color-fg-muted my-2">One moment please...</p>
