@@ -1,6 +1,2 @@
-<!-- HTML5 视频 -->
-<video controls width="100%" height="400">
-  <source src="https://vdse.bdstatic.com/9ba91ee10238bed46fb35c4dd4c08044" type="video/mp4">
-  <source src="https://vdse.bdstatic.com/9ba91ee10238bed46fb35c4dd4c08044" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+<img width="320" height="569" alt="J0ya8lWu_converted" src="https://github.com/user-attachments/assets/20e251d4-3eed-4718-bf54-d20d65615f32" />
+
